@@ -1,0 +1,9 @@
+﻿flowchart LR
+    A[Windows endpoint] --> B[Inventory collectors]
+    A --> C[Startup and event collectors]
+    B --> D[Readiness rules]
+    C --> E[Diagnostic rules]
+    D --> F[Readiness report]
+    E --> G[Performance findings]
+    F --> H[Human decision]
+    G --> H

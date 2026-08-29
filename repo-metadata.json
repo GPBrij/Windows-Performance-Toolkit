@@ -1,0 +1,7 @@
+{
+    "name":"Windows-Performance-Toolkit",
+    "description":"Windows diagnostics, optimization and operational support toolkit.",
+    "topics":"PowerShell,Windows,Performance,Operations",
+    "language":"PowerShell",
+    "owner":"Patrick Brijraj"
+}
